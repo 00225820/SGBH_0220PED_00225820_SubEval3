@@ -1,0 +1,15 @@
+Error #1
+Función:T enqueue
+Línea del codigo: 1
+Explicación del error: En la línea 1 se coloca T y debería de ser void.
+
+Error #2
+Funcion: initialize
+Linea de codigo 2
+Explicacion del error: En la linea 2 del codigo, se utiliza un punto y debe ser un operador flecha, debido a que la variable es un puntero
+
+Error #3
+Funcion: enqueue
+Línea:10
+Explicación del error: debe ser q->final más no q->frente
+
